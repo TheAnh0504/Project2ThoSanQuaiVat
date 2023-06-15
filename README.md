@@ -1,6 +1,6 @@
 # Project2: Game 3D Unity THỢ SĂN QUÁI VẬT
 
-Truy cập đường dẫn "./Thợ Săn Quái Vật/Game/Game Bomb.exe" để chơi game!
+Truy cập đường dẫn "./Game/Game Bomb.exe" để chơi game!
 Hướng dẫn chơi game:
    - Người chơi cần tiêu diệt tất cả quái vật và ăn chìa khóa để qua màn (sẽ rơi ra khi tiêu diệt quái vật)
    - Người chơi di chuyển nhân vật bằng cách di chuột và ấn phím lên xuống phải trái ("W” “S” “D” “A”)
