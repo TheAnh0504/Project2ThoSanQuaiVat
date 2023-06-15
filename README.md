@@ -1,4 +1,4 @@
-# Project2: Game THỢ SĂN QUÁI VẬT
+# Project2: Game 3D Unity THỢ SĂN QUÁI VẬT
 
 Truy cập đường dẫn "./Thợ Săn Quái Vật/Game/Game Bomb.exe" để chơi game!
 Hướng dẫn chơi game:
